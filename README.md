@@ -1,7 +1,7 @@
 Machine_learning
 =============
-> created by Jeongkyu kim
-> git.md, jupyter.ipynb, python
+> created by Jeongkyu kim  
+> git.md, jupyter.ipynb, python  
 
 *What is machine learning?*
 -------------
