@@ -17,7 +17,7 @@ Jupyter Command
 
 *단축기*
 -------------
-|<span style="font-family: Source Code Pro; background-color:orange;">공용 단축키</span>|<span style="font-family: Source Code Pro; background-color:orange;">설명</span>|
+|<span style="font-family: Source Code Pro; background-color:#f7786b;">공용 단축키</span>|<span style="font-family: Source Code Pro; background-color:#f7786b;">설명</span>|
 |:---:|:---:|
 |Shift + Enter|액티브 셀을 실행하고 아래 셀을 선택한다.|
 |Ctrl + Enter|액티브 셀을 실행한다.|
