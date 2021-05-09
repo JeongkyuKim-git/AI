@@ -23,4 +23,4 @@ Jupyter Command
 |Ctrl + Enter|액티브 셀을 실행한다.|
 |Alt + Enter|액티브 셀을 실행하고 아래에 셀을 하나 생성한다.|
 
-[Top Button](#){: .btn .btn--primary }
+[Top Button](#)
