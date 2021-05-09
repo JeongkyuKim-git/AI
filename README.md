@@ -1,8 +1,9 @@
-Machine learning
+Machine Learning
 =============
 > created by Jeongkyu Kim  
 > git.md, jupyter.ipynb, python  
 
+<img src="https://user-images.githubusercontent.com/66001539/117562702-e3234d00-b0db-11eb-914a-4dbd0a04fab6.png" width="600px" height="300px" title="px(픽셀) 크기 설정" alt="Image_machine"></img><br/>  
 *What is machine learning? (머신 러닝)*
 -------------
 > 머신 러닝은 명시적인 프로그래밍을 통해서가 아닌 데이터로부터 시스템을 학습할 수 있는 AI의 한 형태입니다. 그러나 머신 러닝은 단순한 프로세스가 아닙니다. 알고리즘을 통해 학습 데이터를 수집한 후 해당 데이터를 기반으로 더 정확한 모델을 생성할 수 있습니다. 머신 러닝 모델은 데이터를 이용하여 머신 러닝 알고리즘을 트레이닝시킬 때 생성되는 출력입니다. 학습을 마친 후 모델에 입력 내용을 제공하면 결과물을 받게 됩니다. 예를 들면, 예측 알고리즘에서는 예측 모델이 생성됩니다. 그런 다음 예측 모델에 데이터를 제공하면 해당 모델을 학습한 데이터를 기반으로 예측 정보를 받게 됩니다.  
@@ -32,6 +33,4 @@ Machine learning
 > 딥 러닝은 데이터로부터 반복적으로 학습할 수 있도록 연속된 계층에 신경망을 통합하는 특정 머신 러닝 방법론입니다. 딥 러닝은 비정형 데이터로부터 패턴을 학습할 때 특히 유용합니다. 딥 러닝 복합 신경망은 인간의 두뇌가 어떻게 작동하는지를 에뮬레이션하기 위해 설계되었습니다. 따라서 컴퓨터는 잘못 정의된 추상과 문제점을 처리하도록 트레이닝을 받을 수 있습니다. 평균 5세의 어린이는 교사의 얼굴과 건널목 안전 지킴이 얼굴의 차이를 쉽게 인식할 수 있습니다. 그러나 컴퓨터에서는 누가 누구인지 알아내기 위해 많은 작업을 수행해야 합니다. 신경망과 딥 러닝은 흔히 이미지 인식, 음성, 컴퓨터 비전 애플리케이션에 사용됩니다.
 
 
-[Title](https://www.ibm.com/kr-ko/analytics/machine-learning?p1=Search&p4=43700052658044404&p5=e&gclid=CjwKCAjw7diEBhB-EiwAskVi1yKXEyBOHmWSVyWV_9KBln8r-eFt6RrIeJY0xY6pJ-iF2IKjIjuXLxoC9X4QAvD_BwE&gclsrc=aw.ds)  
-
-<img src="https://user-images.githubusercontent.com/66001539/117562702-e3234d00-b0db-11eb-914a-4dbd0a04fab6.png" width="600px" height="300px" title="px(픽셀) 크기 설정" alt="Image_machine"></img><br/>
+[IBM_Example](https://www.ibm.com/kr-ko/analytics/machine-learning?p1=Search&p4=43700052658044404&p5=e&gclid=CjwKCAjw7diEBhB-EiwAskVi1yKXEyBOHmWSVyWV_9KBln8r-eFt6RrIeJY0xY6pJ-iF2IKjIjuXLxoC9X4QAvD_BwE&gclsrc=aw.ds)  
