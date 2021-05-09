@@ -60,4 +60,8 @@ Jupyter Command
 |%autosave n|자동저장 주기를 설정한다. 초 단위이며, 0이면 무효로 한다.|
 |%matplotlib|그래프를 그리는 코드 위에 따로 설정한다. %matplotlib inline으로 설정하면 코드 셀의 바로 아래에, %matplotlib tk로 설정하면 별도 창에 그래프가 출력된다. %matplotlib notebook으로 하면 코드 셀 바로 아래에 동적으로 그래프를 조작할 수 있는 그래프가 생성된다.|  
 
+*git.md*
+-------------
+> "space x 2 = 한 줄 띄기 (Enter)"  
+
 [Top Button](#)
