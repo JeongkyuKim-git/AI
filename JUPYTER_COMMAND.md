@@ -1,7 +1,21 @@
-Jupyer Command
+Jupyter Command
 =============
 > 많이 사용되는 command 정리  
 
-*What is machine learning? (머신 러닝)*
+*Text File 생성 (.py, .ipynb, .txt)*
 -------------
-> ㅇㅇㅇ  
+> .py 파이썬 파일, .ipynb jupyter 파일, .txt 메모장  
+
+*셀 실행 (Shift+Enter)*
+-------------
+> 실행하면 셀 아래쪽에 실행 결과가 표시되고 In [], Out []에 [Index]항목에서 몇 번째로 실행한지 숫자를 표시한다.  
+
+*셀 만들기 (A or B)*
+-------------
+> A는 클릭된 셀의 위로 셀을 생성한다. B는 클릭된 셀의 아래로 셀을 생성한다.  
+
+
+*단축기*
+-------------
+|공용 단축키|설명|
+|--|--|
