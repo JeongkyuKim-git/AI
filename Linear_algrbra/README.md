@@ -20,20 +20,13 @@
 
 *Numpy_basic4 파일*
 -------------
-> 행렬의 종류 (전치, 단위, 역행렬)  
+> 행렬의 종류 (전치, 단위, 역행렬)
+> X.T "T는 전치 행렬"
+> np.indentity(X) "indentitiy의 I는 단위 행렬"
+> np.linalg.pinv(X) "역행렬"
 
 *Numpy_basic5 파일*
 -------------
-> 전치, 단위, 역행렬 행렬 연산 예제 풀이 {
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "# numpy 전치, 단위, 역행렬 연습\n",
-    "- 복잡한 행렬 연산을 numpy를 사용해서 계산해보겠습니다. 행렬 ﻿A, B, C, D﻿ 는 정의해놨으며, 아래 행렬 연산을 numpy로 작성하시면 됩니다.\n",
-    "- ﻿ B$^T$ x (2 * A$^T$) x (3 * C$^{-1}$ + D$^T$)﻿"
-   ]
-  }
+> 전치, 단위, 역행렬 행렬 연산 예제 풀이
 
 [Top Button](#)
