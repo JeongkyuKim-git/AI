@@ -1,11 +1,12 @@
-Machine Learning
+Study on differential (미분에 필요한 내용)
 =============
-> Created by Jeongkyu Kim  
-git.md, jupyter.ipynb, python  
+> 함수, 그래프, 평균 변화율, 순간 변화율, 미분  
 
-<img src="https://user-images.githubusercontent.com/66001539/117562702-e3234d00-b0db-11eb-914a-4dbd0a04fab6.png" width="600px" height="300px" title="px(픽셀) 크기 설정" alt="Image_machine"></img><br/>  
-![평균변화율](https://user-images.githubusercontent.com/66001539/117780502-a6418c80-b27a-11eb-9925-b0875ac94771.png)
+<img src="https://user-images.githubusercontent.com/66001539/117780502-a6418c80-b27a-11eb-9925-b0875ac94771.png" width="600px" height="300px" title="px(픽셀) 크기 설정" alt="Image_avarage"></img><br/>  
 
-*What is machine learning? (머신 러닝)*
+*What is function and graph? (함수, 그래프)*
 -------------
-> 머신 러닝은 명시적
+> 함수란?  
+> 함수는 ~~~~~~  
+> 그래프란?  
+> 그래프는 ~~~~~
