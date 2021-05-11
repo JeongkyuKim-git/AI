@@ -10,6 +10,8 @@ Study on differential
 *What is function and graph? (함수, 그래프)*
 -------------
 > 함수란?  
-> 함수는 ~~~~~~  
+> 함수는 INPUT과 OUTPUT이 존재하며, 다변수 함수도 존재함.  
+> Ex) d = 60t or BMI = 몸무게 / 키 X 키  
+  
 > 그래프란?  
 > 그래프는 ~~~~~
