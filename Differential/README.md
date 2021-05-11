@@ -1,4 +1,5 @@
-Study on differential (미분에 필요한 내용)
+# Study on differential  
+*미분에 필요한 내용*  
 =============
 > 함수, 그래프, 평균 변화율, 순간 변화율, 미분  
 
