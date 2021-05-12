@@ -29,4 +29,24 @@ Study on differential
 > f(x)는 함수 --> f<sup>'</sup>(x)는 미분으로 순간 변화율을 구해주는 함수이다.  
 > "기울기는" 그래프가 해당 지점에서 얼마나 기울어져 있는지와 어떤 방향으로 가야 가장 가파르게 올라갈 수 있는지를 알 수 있다.  
 
+*극소점, 극대점, 안장점*
+-------------
+> 극소점?  
+> 최소점 (global minimum), 극소점 (local minimum)이 존재한다.
+> 기울기가 왼쪽일 경우 '-', 오른쪽일 경우 '+'
+  
+![극소점](https://user-images.githubusercontent.com/66001539/117937176-a99f4b80-b340-11eb-9946-3bfdbe866f19.png)
+  
+> 극대점?  
+> 최대점 (global maximum), 극대점 (local maximum)이 존재한다.  
+> 기울기가 왼쪽일 경우 '+', 오른쪽일 경우 '-'
+   
+![극대점](https://user-images.githubusercontent.com/66001539/117937170-a86e1e80-b340-11eb-998c-844467693747.png)
+  
+> 안정점?
+> 안정점 (saddle point)가 존재한다.
+> 기울기가 왼쪽일 경우 '+', 오른쪽일 경우 '+'
+  
+![안장점](https://user-images.githubusercontent.com/66001539/117937159-a60bc480-b340-11eb-88c7-7924ef6bda4c.png)
+  
 [Top Button](#)
