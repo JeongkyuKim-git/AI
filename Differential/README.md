@@ -22,5 +22,10 @@ Study on differential
 <img src="https://user-images.githubusercontent.com/66001539/117780502-a6418c80-b27a-11eb-9925-b0875ac94771.png" width="600px" height="300px" title="px(픽셀) 크기 설정" alt="Image_avarage"></img><br/>  
 
 [그림의 내용은 Codeit](https://www.codeit.kr/)
-  
+
+*미분*
+-------------
+> 미분?  
+> f(x)는 함수 --> f$^'$(x)는 미분으로 순간 변화율을 구해주는 함수이다.  
+
 [Top Button](#)
