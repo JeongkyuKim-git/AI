@@ -47,5 +47,11 @@ Study on differential
   
 ![안장점](https://user-images.githubusercontent.com/66001539/117937159-a60bc480-b340-11eb-88c7-7924ef6bda4c.png)
   
+> 고차원에서 미분  
+> 편미분을 통해 함수를 변수 하나에 대해서만 미분하여 구하는 방법이 있다.  
+> ex) f(x,y) = x<sup>2</sup> + 2y<sup>2</sup>  
+
+
 [그림의 내용은 Codeit](https://www.codeit.kr/)  
+  
 [Top Button](#)
