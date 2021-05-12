@@ -16,7 +16,9 @@ Study on differential
 *평균 변화율*
 -------------
 > 평균 변화율?  
-
+> 곡선의 기울기는 위치마다 다르기 때문에 지점에서 기울기인 순간 변화율로 평균 변화율을 알아야한다.  
+> 평균 변화율의 공식은 아래의 그림과 같다.  
+  
 <img src="https://user-images.githubusercontent.com/66001539/117780502-a6418c80-b27a-11eb-9925-b0875ac94771.png" width="600px" height="300px" title="px(픽셀) 크기 설정" alt="Image_avarage"></img><br/>  
 
 [그림의 내용은 Codeit](https://www.codeit.kr/)
