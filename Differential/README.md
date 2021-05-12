@@ -21,8 +21,6 @@ Study on differential
   
 <img src="https://user-images.githubusercontent.com/66001539/117780502-a6418c80-b27a-11eb-9925-b0875ac94771.png" width="600px" height="300px" title="px(픽셀) 크기 설정" alt="Image_avarage"></img><br/>  
 
-[그림의 내용은 Codeit](https://www.codeit.kr/)
-
 *미분*
 -------------
 > 미분?  
@@ -43,10 +41,11 @@ Study on differential
    
 ![극대점](https://user-images.githubusercontent.com/66001539/117937170-a86e1e80-b340-11eb-998c-844467693747.png)
   
-> 안정점?
+> 안정점?  
 > 안정점 (saddle point)가 존재한다.
 > 기울기가 왼쪽일 경우 '+', 오른쪽일 경우 '+'
   
 ![안장점](https://user-images.githubusercontent.com/66001539/117937159-a60bc480-b340-11eb-88c7-7924ef6bda4c.png)
   
+[그림의 내용은 Codeit](https://www.codeit.kr/)  
 [Top Button](#)
