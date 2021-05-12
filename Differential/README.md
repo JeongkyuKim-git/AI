@@ -27,5 +27,5 @@ Study on differential
 -------------
 > 미분?  
 > f(x)는 함수 --> f<sup>'</sup>(x)는 미분으로 순간 변화율을 구해주는 함수이다.  
-
+  
 [Top Button](#)
