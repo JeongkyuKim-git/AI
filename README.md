@@ -33,6 +33,6 @@ git.md, jupyter.ipynb, python
 > 딥 러닝은 데이터로부터 반복적으로 학습할 수 있도록 연속된 계층에 신경망을 통합하는 특정 머신 러닝 방법론입니다. 딥 러닝은 비정형 데이터로부터 패턴을 학습할 때 특히 유용합니다. 딥 러닝 복합 신경망은 인간의 두뇌가 어떻게 작동하는지를 에뮬레이션하기 위해 설계되었습니다. 따라서 컴퓨터는 잘못 정의된 추상과 문제점을 처리하도록 트레이닝을 받을 수 있습니다. 평균 5세의 어린이는 교사의 얼굴과 건널목 안전 지킴이 얼굴의 차이를 쉽게 인식할 수 있습니다. 그러나 컴퓨터에서는 누가 누구인지 알아내기 위해 많은 작업을 수행해야 합니다. 신경망과 딥 러닝은 흔히 이미지 인식, 음성, 컴퓨터 비전 애플리케이션에 사용됩니다.
 
 
-[IBM_Example_URL](https://www.ibm.com/kr-ko/analytics/machine-learning?p1=Search&p4=43700052658044404&p5=e&gclid=CjwKCAjw7diEBhB-EiwAskVi1yKXEyBOHmWSVyWV_9KBln8r-eFt6RrIeJY0xY6pJ-iF2IKjIjuXLxoC9X4QAvD_BwE&gclsrc=aw.ds)  
+[참조 내용-IBM_Example_URL](https://www.ibm.com/kr-ko/analytics/machine-learning?p1=Search&p4=43700052658044404&p5=e&gclid=CjwKCAjw7diEBhB-EiwAskVi1yKXEyBOHmWSVyWV_9KBln8r-eFt6RrIeJY0xY6pJ-iF2IKjIjuXLxoC9X4QAvD_BwE&gclsrc=aw.ds)  
 
 [Top Button](#)
