@@ -12,6 +12,11 @@ Supervised Learning
 
 *다항 회귀 (Polynomial Regression)*
 -------------  
->   
+>  
+
+
+*로지스틱 회귀 (Logistic Regression)*
+-------------  
+>  
 
 [Top Button](#)
