@@ -1,5 +1,5 @@
 
-Linear Regression
+*선형 회귀 (Linear Regression)*
 =============
 > 선형 회귀에 대한 용어 정리  
 <br>
