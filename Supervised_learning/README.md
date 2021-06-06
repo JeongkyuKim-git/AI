@@ -7,7 +7,7 @@ Supervised Learning
   
   
 > 그림 예시)  
-<img src="https://user-images.githubusercontent.com/66001539/120929274-5e9c0c80-c723-11eb-8ff0-abb99814905e.png" width="600px" height="300px" title="px(픽셀) 크기 설정" alt="Image_machine"></img><br/>  
+<img src="https://user-images.githubusercontent.com/66001539/120929274-5e9c0c80-c723-11eb-8ff0-abb99814905e.png" width="600px" height="300px" title="px(픽셀) 크기 설정" alt="supervised_learning"></img><br/>  
 
 *선형 회귀 (Linear Regression)*
 -------------  
