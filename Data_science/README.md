@@ -18,18 +18,21 @@
 |   04.   | 필요한 데이터 설정 |         |              |        |               |
 
 
-|              | Header 1        | Header 2                       || Header 3                       ||
-|              | Subheader 1     | Subheader 2.1  | Subheader 2.2  | Subheader 3.1  | Subheader 3.2  |
-|==============|-----------------|----------------|----------------|----------------|----------------|
-| Row Header 1 | 3row, 3col span                                 ||| Colspan only                   ||
-| Row Header 2 |       ^                                         ||| Rowspan only   | Cell           |
-| Row Header 3 |       ^                                         |||       ^        | Cell           |
-| Row Header 4 |  Row            |  Each cell     |:   Centered   :| Right-aligned :|: Left-aligned  |
-:              :  with multiple  :  has room for  :   multi-line   :    multi-line  :  multi-line    :
-:              :  lines.         :  more text.    :      text.     :         text.  :  text.         :
-|--------------|-----------------|----------------|----------------|----------------|----------------|
-[Caption Text]
-
+|######################################## Caption Text ##########################################
+|_______________________________________________________________________________________________,
+|              | Header 1      || Header 2                     || Header 3                      |
+|              | Subheader 1   | Subheader 2.1 | Subheader 2.2 |  Subheader 3.1 | Subheader 3.2 |
+|==============|---------------|---------------|---------------|----------------|---------------|
+| Row Header 1 ||| 3row, 3col span                             || Colspan only                  |
+|______________|                                               |________________|_______________|
+| Row Header 2 |^                                              |  Rowspan only  | Cell          |
+|______________|                                               |                |_______________|
+| Row Header 3 |^                                              |^               | Cell          |
+|______________|_______________________________________________|________________|_______________|
+| Row Header 4 | Row           | Each cell     |:   Centered  :| Right-aligned :|: Left-aligned |
+|~             | with multiple | has room for  |   multi-line  |    multi-line  |  multi-line   |
+|~             | lines.        | more text.    |      text.    |         text.  |  text.        |
+|______________|_______________|_______________|_______________|________________|_______________
 *R과 Python*
 ------  
 > 두 프로그래밍 언어가 데이터 사이언스에서 유용하게 사용되고 있다.  
