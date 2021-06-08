@@ -11,17 +11,17 @@
   
 *02. 아나콘다 설치*
 -----  
-> 02
+> 설치 파일을 실행하면 다음과 같은 화면이 나타납니다. I Agree 버튼을 눌러 설치를 진행하세요.
 <p align="center">
-  <img  width= "500" height="350" src="https://user-images.githubusercontent.com/66001539/121194260-8cab5900-c8a9-11eb-9d76-1f231c6ece2d.png" title="px(픽셀) 크기 설정" alt="Anaconda"></img>
+  <img  width= "500" height="350" src="https://user-images.githubusercontent.com/66001539/121194260-8cab5900-c8a9-11eb-9d76-1f231c6ece2d.png" title="px(픽셀) 크기 설정" alt="Just_me"></img>
 </p><br/>  
   
-> 03
+> next 버튼을 눌러서 설치를 계속 진행합니다.  
 <p align="center">
-  <img  width= "500" height="350" src="https://user-images.githubusercontent.com/66001539/121194259-8cab5900-c8a9-11eb-8539-ac9cc6e33fee" title="px(픽셀) 크기 설정" alt="Anaconda"></img>
+  <img  width= "500" height="350" src="https://user-images.githubusercontent.com/66001539/121194259-8cab5900-c8a9-11eb-8539-ac9cc6e33fee" title="px(픽셀) 크기 설정" alt="Destination_folder"></img>
 </p><br/>  
   
-> 04
+> 아래 사진과 같이 아나콘다가 설치될 경로를 정해주고 next 버튼을 눌러 다음 단계로 넘어갑니다.  
 <p align="center">
   <img  width= "500" height="350" src="https://user-images.githubusercontent.com/66001539/121194257-8c12c280-c8a9-11eb-9558-446b99a94a70" title="px(픽셀) 크기 설정" alt="Anaconda"></img>
 </p><br/>  
