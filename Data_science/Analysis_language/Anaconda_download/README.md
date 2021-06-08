@@ -5,5 +5,6 @@
 *01. 아나콘다 다운로드*
 -----  
 [아나콘다 다운로드 링크](https://www.anaconda.com/products/individual)로 접속한 뒤, 설치 파일을 다운로드 받습니다.  
-
-<img src="https://user-images.githubusercontent.com/66001539/121192106-8ddb8680-c8a7-11eb-975b-8757c7c405e5.png" width="width 250px" height="height 250px" title="px(픽셀) 크기 설정" alt="Anaconda"></img><br/>  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66001539/121192106-8ddb8680-c8a7-11eb-975b-8757c7c405e5.png" width="width 250px" height="height 250px" title="px(픽셀) 크기 설정" alt="Anaconda"></img>
+</p><br/>  
