@@ -6,5 +6,5 @@
 -----  
 [아나콘다 다운로드 링크](https://www.anaconda.com/products/individual)로 접속한 뒤, 설치 파일을 다운로드 받습니다.  
 <p align="center">
-  <img  width= "400" height="400" src="https://user-images.githubusercontent.com/66001539/121192106-8ddb8680-c8a7-11eb-975b-8757c7c405e5.png" title="px(픽셀) 크기 설정" alt="Anaconda"></img>
+  <img  width= "500" height="500" src="https://user-images.githubusercontent.com/66001539/121192106-8ddb8680-c8a7-11eb-975b-8757c7c405e5.png" title="px(픽셀) 크기 설정" alt="Anaconda"></img>
 </p><br/>  
