@@ -1,7 +1,6 @@
 *Numpy (Numerical python)*
 =====  
 > Python에서 계산 작업을 편리하게 도와주는 도구  
-<br>
   
   
 *왜 중요한가?*
@@ -19,12 +18,12 @@
 > numpy는 한가지 타입만 들어갈 수 있다.  
 > Ex_01) [1,2,5,4,8,9,10]  
 > Ex_02) ["Hello","Dog","Alignment"]  
-  
+<br>
+
   
 *Numpy library*
 =====  
 > numpy 라이브러리는 기본적인 통계 기능도 제공합니다.  
-<br>
 
 
 *최댓값, 최솟값*
@@ -90,6 +89,7 @@ print(array1.var()) # 분산
 > 결과 값  
 > 8.496322733983215  
 > 72.1875  
-  
+<br>
+
   
 [Top Button](#)
