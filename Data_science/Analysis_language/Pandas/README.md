@@ -4,8 +4,8 @@
 > DataFrame은 데이터 보관, 정리, 분석에 해당한다.  
 <br>  
   
-> 파이썬과 R
+> Python and R  
 <img src="https://user-images.githubusercontent.com/66001539/121871542-32921400-cd3f-11eb-9861-0b8a16bda0ec.png" width="550px" height="250px" title="px(픽셀) 크기 설정" alt="python_and_r"></img><br>  
 
-> pandas 라이브러리
+> pandas 라이브러리  
 <img src="https://user-images.githubusercontent.com/66001539/121871527-2e65f680-cd3f-11eb-9fbc-5fa4db2902bc.png" width="350px" height="250px" title="px(픽셀) 크기 설정" alt="pandas"></img><br>  
