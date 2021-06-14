@@ -9,7 +9,6 @@
 > numpy는 numpy array를 사용하며, python 리스트와 비슷한 개념  
 > python의 긴 코드 작성은 --> 시간 소요  
 > 이때, Numpy는 여러 값을 효율적으로 사용할 수 있다.  
-<br>
   
   
 *Python과 Numpy의 차이점*
@@ -20,7 +19,6 @@
 > numpy는 한가지 타입만 들어갈 수 있다.  
 > Ex_01) [1,2,5,4,8,9,10]  
 > Ex_02) ["Hello","Dog","Alignment"]  
-<br>
   
   
 *Numpy library*
